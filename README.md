@@ -1,4 +1,10 @@
 # Video Hub App 3
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
+
+<details>
+  <summary>Find below the original README.md</summary>
+
+# Video Hub App 3
 
 [*Video Hub App 3*](https://videohubapp.com/) is the fastest way to browse and search for videos on your computer. Think of it like YouTube for videos on your computer: browse, search, and preview. Works on Windows, Mac, and Linux!
 
@@ -91,3 +97,4 @@ This software would not be possible without the tremendous work by other people:
 This software uses libraries from the FFmpeg project under the LGPLv2.1 with binaries from [here](https://github.com/kribblo/node-ffmpeg-installer#the-binaries)
 
 Since becoming open source, this software was made better with the awesome contributions by [cal2195](https://github.com/cal2195)
+</details>
